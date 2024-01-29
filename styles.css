@@ -1,0 +1,11 @@
+.logo {
+    width: 70px;
+    height: 60px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.nav-link {
+    font-size: large;
+    color: black;
+}
