@@ -27,3 +27,24 @@
     border: 1px solid grey;
     color: white;
 }
+
+.icon-link {
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.icon-link:hover {
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 8px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
